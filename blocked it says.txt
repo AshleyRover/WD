@@ -1,0 +1,85 @@
+{
+  "relationships_blocked_users": [
+    {
+      "title": "mathew.simon.758",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/mathew.simon.758",
+          "timestamp": 1709394905
+        }
+      ]
+    },
+    {
+      "title": "rule._.kid_15",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/rule._.kid_15",
+          "timestamp": 1707033027
+        }
+      ]
+    },
+    {
+      "title": "m_ayu_sh",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/m_ayu_sh",
+          "timestamp": 1701539953
+        }
+      ]
+    },
+    {
+      "title": "_your_zoro_x_",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/_your_zoro_x_",
+          "timestamp": 1697831939
+        }
+      ]
+    },
+    {
+      "title": "_jaxanth_p_",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/_jaxanth_p_",
+          "timestamp": 1694273523
+        }
+      ]
+    },
+    {
+      "title": "madhu.shree555",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/madhu.shree555",
+          "timestamp": 1691415909
+        }
+      ]
+    },
+    {
+      "title": "madhu_shree555",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/madhu_shree555",
+          "timestamp": 1691080607
+        }
+      ]
+    },
+    {
+      "title": "trripy_the_alian",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/trripy_the_alian",
+          "timestamp": 1689681972
+        }
+      ]
+    },
+    {
+      "title": "bbst12680",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/bbst12680",
+          "timestamp": 1688024565
+        }
+      ]
+    }
+  ]
+}
